@@ -1,70 +1,103 @@
 # 👋 Hi, I'm Shaun Kleyn
 
-**Full-Stack Developer | Framework-Agnostic | Rapid Learner**
+**Award-Winning Frontend Developer | 3x Recognized for Innovation & Performance Excellence**
 
-I'm a software developer based in Johannesburg, South Africa, specializing in modern web and mobile development. I believe the best way to learn is by building real applications—when I want to explore a new technology, I ship production code.
+I love building beautiful, high-performing web applications. I'm the developer who browses Pinterest for UI/UX inspiration, optimizes systems from 23 hours to 2 hours, and believes great code should be both delightful to use AND blazingly fast.
 
-## 🚀 What I'm Currently Building
+## 🏆 Recognition & Impact
 
-**Flutter POS Application** (Private)
-- Went from zero Flutter knowledge (Nov 2024) to production app (July 2025) in 7 months
-- Currently maintaining both Flutter v2 and v3 applications using FVM
-- Built CI/CD pipelines and implemented environment flavours (dev/staging/prod)
-- Sunmi hardware integration, custom keyboards, receipt printing, BLoC state management
+**8 Years of Consistent Innovation Awards**
 
-**BizBio - Digital Business Card SaaS** (Private - Side Project)
-- Vue.js + Tailwind CSS frontend with ASP.NET Core 6 API backend
-- Production infrastructure: VPS deployment, MariaDB, Azure DevOps, Cloudflare tunnels
-- Features: Team hierarchies, profile management, NFC card integration, responsive design
-- Active development: Payment gateway integration in progress
+I've been recognized for innovation and impact at three different companies over the past 8 years:
+
+- 🥇 **Innovation Award** - Exceptional creativity and forward-thinking in technical solutions
+- 🥇 **Supervisor Specialist of the Year** - Optimized critical system from 23 hours → 2 hours (91% improvement)
+- 🥇 **Performance Excellence Award** - Level 2 Merit for sustained excellence and positive influence
+
+These awards reflect my approach: I don't just complete tasks—I find creative solutions that deliver exceptional, measurable results.
+
+## 🎨 What I Love Building
+
+**Beautiful, High-Performing Web Applications**
+
+I'm passionate about frontend development—not just making things work, but making them *feel* good to use while running efficiently. CSS animations, thoughtful transitions, performance optimization, and interfaces that users actually enjoy.
+
+**BizBio - Digital Business Card SaaS** (Private - Active Development)
+- Vue.js + Tailwind CSS for beautiful, responsive design
+- Custom UI components with attention to micro-interactions and performance
+- ASP.NET Core API backend with production infrastructure
+- Deployed on VPS with Azure DevOps CI/CD
+- Mission: Making professional networking elegant and effortless
+
+## 🚀 Recent Projects
+
+**Flutter POS Application** (Private - Bitventure Consulting)
+- Learned Flutter from scratch and shipped to production in 7 months
+- Custom keyboard UI, receipt printing, Sunmi hardware integration
+- Built complete CI/CD pipelines and multi-environment configurations
+- Currently maintaining both Flutter v2 and v3 using FVM
+- **Key takeaway:** I can master any framework when needed, but web development is where my passion lives
+
+**System Performance Optimization** (Clientele, 2022)
+- Optimized critical system from 23 hours processing time to 2 hours
+- 91% performance improvement through creative problem-solving
+- Recognized with "Supervisor Specialist of the Year" award
+- Impact: Significant operational efficiency and cost savings
 
 ## 💻 Tech Stack
 
-**Frontend:**
-- **JavaScript** (2014-present) - jQuery → ES6+ → Modern Frameworks
-- **Flutter** (14 months production experience) - BLoC pattern, multi-version management
-- **Vue.js** (Active) - Production SaaS development
-- **React** (Exploring) - Understanding ecosystem and patterns
-- **HTML5, CSS3, Tailwind CSS, Bootstrap**
+**Frontend (My Passion):**
+- JavaScript (11+ years) - From jQuery to modern ES6+
+- Vue.js - Component-driven development, Vuex state management
+- CSS3 - Animations, transitions, responsive design, performance optimization
+- HTML5 - Semantic markup, accessibility
+- Tailwind CSS - Utility-first styling
+- Flutter - Mobile UI when needed
 
-**Backend:**
-- **C# / .NET** - ASP.NET Core 6 MVC, Entity Framework Core, Blazor
-- **SQL** - MySQL, MariaDB, SQL Server, SQLite
-- **Python** - Automation, scripting, API integration
-
-**DevOps & Tools:**
-- **Azure DevOps** - CI/CD pipelines, repos, build automation
-- **Docker** - Containerization
-- **Git** - Version control, branching strategies
-- **Cloudflare** - Tunnels, DNS, deployment
-- **Linux** - VPS management, server administration
-- **Nginx** - Web server configuration
+**Full-Stack Capability:**
+- C# / .NET - ASP.NET Core MVC, Entity Framework Core
+- RESTful APIs - Design, implementation, optimization
+- SQL - MySQL, MariaDB, SQL Server (query optimization, performance tuning)
+- DevOps - Azure DevOps, Docker, Git, CI/CD pipelines
+- Linux - VPS management, deployment, server optimization
 
 ## 🎯 What Sets Me Apart
 
-**Learning Velocity:** When I needed to build a Flutter app with zero experience, I shipped to production in 7 months. When I wanted to explore Vue.js, I built a full-stack SaaS platform with real infrastructure.
+**Proven Innovation:** Three different companies over 8 years have recognized my ability to find creative solutions and deliver exceptional results. This isn't luck—it's a track record.
 
-**Production Mindset:** I don't build localhost-only demos. My side projects run on real servers, use CI/CD pipelines, and are built to scale.
+**Measurable Impact:** I optimize systems by 91%, streamline processes, and build solutions that deliver tangible business value. I care about metrics, not just shipping features.
 
-**Framework Agnostic:** I've worked across C# MVC, Flutter/Dart, Vue.js, jQuery, and Python. I focus on patterns and principles that transcend specific frameworks.
+**Creative + Technical:** I bring design sensibility to development. I don't just implement specs—I think about user experience, visual hierarchy, performance, and interaction design.
+
+**Rapid Learning:** When I need to master new tech, I ship production code. My Flutter journey (0 to production in 7 months) proves I can pick up anything—but I'm most excited building for the web.
+
+**Making Things Better:** Whether it's a 23-hour process or a clunky interface, I find creative ways to make things faster, simpler, and more delightful.
 
 ## 🔧 Public Projects
 
-Most of my recent professional and side project work is in private repositories, but you can see my problem-solving approach in these public projects:
+My commercial and side project work lives in private repositories, but you can see my problem-solving approach in these automation projects:
 
-- **[Series-Collection-Status-for-Kometa](https://github.com/shaunkleyn/Series-Collection-Status-for-Kometa)** ⭐7 - Plex Meta Manager configuration
+- **[Series-Collection-Status-for-Kometa](https://github.com/shaunkleyn/Series-Collection-Status-for-Kometa)** ⭐7 - Plex Meta Manager automation
 - **[calendar-task-scheduler](https://github.com/shaunkleyn/calendar-task-scheduler)** - Windows task automation from calendar events
-- **[PMM-Availability-Labels](https://github.com/shaunkleyn/PMM-Availability-Labels)** - Plex automation
-- **[sonarr-tags-to-plex-labels](https://github.com/shaunkleyn/sonarr-tags-to-plex-labels)** - Sonarr integration automation
+- **[sonarr-tags-to-plex-labels](https://github.com/shaunkleyn/sonarr-tags-to-plex-labels)** - Media workflow automation
 
-These Python projects demonstrate my approach to automation and solving real-world problems with code.
-
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/shaunkleyn](https://linkedin.com/in/shaunkleyn)
-- **Twitter/X:** [@kleyn_shaun](https://twitter.com/kleyn_shaun)
 - **Location:** Johannesburg, South Africa 🇿🇦
+- **Twitter/X:** [@kleyn_shaun](https://twitter.com/kleyn_shaun)
 
+---
+
+📊 **GitHub Stats**
+
+![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunkleyn&hide=contribs,prs&show_icons=true&theme=vue-dark&border_radius=20)
+
+---
+
+*Building beautiful, high-performing web experiences. Recognized 3x for innovation and impact.*
+
+*"The best way to predict the future is to build it."*
 ---
 
 ## 📊 GitHub Stats
@@ -72,10 +105,6 @@ These Python projects demonstrate my approach to automation and solving real-wor
 ![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunkleyn&hide=contribs,prs&show_icons=true&theme=vue-dark&border_radius=20)
 
 ---
-
-*"The best way to predict the future is to build it."*
-
-
 
 <br/>
 
