@@ -1,21 +1,82 @@
-### Hi there 👋
+# 👋 Hi, I'm Shaun Kleyn
 
-<!--
-**shaunkleyn/shaunkleyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Framework-Agnostic | Rapid Learner**
 
-Here are some ideas to get you started:
+I'm a software developer based in Johannesburg, South Africa, specializing in modern web and mobile development. I believe the best way to learn is by building real applications—when I want to explore a new technology, I ship production code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Building
+
+**Flutter POS Application** (Private)
+- Went from zero Flutter knowledge (Nov 2024) to production app (July 2025) in 7 months
+- Currently maintaining both Flutter v2 and v3 applications using FVM
+- Built CI/CD pipelines and implemented environment flavours (dev/staging/prod)
+- Sunmi hardware integration, custom keyboards, receipt printing, BLoC state management
+
+**BizBio - Digital Business Card SaaS** (Private - Side Project)
+- Vue.js + Tailwind CSS frontend with ASP.NET Core 6 API backend
+- Production infrastructure: VPS deployment, MariaDB, Azure DevOps, Cloudflare tunnels
+- Features: Team hierarchies, profile management, NFC card integration, responsive design
+- Active development: Payment gateway integration in progress
+
+## 💻 Tech Stack
+
+**Frontend:**
+- **JavaScript** (2014-present) - jQuery → ES6+ → Modern Frameworks
+- **Flutter** (14 months production experience) - BLoC pattern, multi-version management
+- **Vue.js** (Active) - Production SaaS development
+- **React** (Exploring) - Understanding ecosystem and patterns
+- **HTML5, CSS3, Tailwind CSS, Bootstrap**
+
+**Backend:**
+- **C# / .NET** - ASP.NET Core 6 MVC, Entity Framework Core, Blazor
+- **SQL** - MySQL, MariaDB, SQL Server, SQLite
+- **Python** - Automation, scripting, API integration
+
+**DevOps & Tools:**
+- **Azure DevOps** - CI/CD pipelines, repos, build automation
+- **Docker** - Containerization
+- **Git** - Version control, branching strategies
+- **Cloudflare** - Tunnels, DNS, deployment
+- **Linux** - VPS management, server administration
+- **Nginx** - Web server configuration
+
+## 🎯 What Sets Me Apart
+
+**Learning Velocity:** When I needed to build a Flutter app with zero experience, I shipped to production in 7 months. When I wanted to explore Vue.js, I built a full-stack SaaS platform with real infrastructure.
+
+**Production Mindset:** I don't build localhost-only demos. My side projects run on real servers, use CI/CD pipelines, and are built to scale.
+
+**Framework Agnostic:** I've worked across C# MVC, Flutter/Dart, Vue.js, jQuery, and Python. I focus on patterns and principles that transcend specific frameworks.
+
+## 🔧 Public Projects
+
+Most of my recent professional and side project work is in private repositories, but you can see my problem-solving approach in these public projects:
+
+- **[Series-Collection-Status-for-Kometa](https://github.com/shaunkleyn/Series-Collection-Status-for-Kometa)** ⭐7 - Plex Meta Manager configuration
+- **[calendar-task-scheduler](https://github.com/shaunkleyn/calendar-task-scheduler)** - Windows task automation from calendar events
+- **[PMM-Availability-Labels](https://github.com/shaunkleyn/PMM-Availability-Labels)** - Plex automation
+- **[sonarr-tags-to-plex-labels](https://github.com/shaunkleyn/sonarr-tags-to-plex-labels)** - Sonarr integration automation
+
+These Python projects demonstrate my approach to automation and solving real-world problems with code.
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/shaunkleyn](https://linkedin.com/in/shaunkleyn)
+- **Twitter/X:** [@kleyn_shaun](https://twitter.com/kleyn_shaun)
+- **Location:** Johannesburg, South Africa 🇿🇦
+
+---
+
+## 📊 GitHub Stats
 
 ![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunkleyn&hide=contribs,prs&show_icons=true&theme=vue-dark&border_radius=20)
+
+---
+
+*"The best way to predict the future is to build it."*
+
+
+
 <br/>
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
